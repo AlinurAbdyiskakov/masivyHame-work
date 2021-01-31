@@ -6,3 +6,5 @@ dw(example1.toFixed(2));
 dw(example2);
 let example3 = "Hello World , Hello Alinur";
 dw(example3.length);
+let example4 = 12439044.3498;
+dw(example4.toFixed(20))
