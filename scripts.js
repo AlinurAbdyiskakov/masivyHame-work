@@ -8,3 +8,4 @@ let example3 = "Hello World , Hello Alinur";
 dw(example3.length);
 let example4 = 12439044.3498;
 dw(example4.toFixed(20))
+dw(example3.indexOf("World"));
